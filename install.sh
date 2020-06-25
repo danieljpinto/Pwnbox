@@ -7,7 +7,7 @@ rm -rf ~/.bashrc
             source ~/.bashrc
 
 printf "\nTerminal done!"
-printf "\nBackup for your original bashrc made in ~/.bashrc"
+printf "\nBackup for your original bashrc made in ~/.bashrc.bak"
     sleep 1
         clear
         

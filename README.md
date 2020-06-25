@@ -19,6 +19,7 @@ You can do this all in Parrot OS!
 ```
 ## DISCLAIMER
 `This has only been done on Parrot OS and is not intended for other systems! Please try so at your own risk`
+
 `p.s: Hackthebox admins. Please don't kill me for making this...`
 
 ## Step 1: Open a new Terminal and clone the repo. 
@@ -28,6 +29,7 @@ You can do this all in Parrot OS!
 ## Step 2: Start install.sh
 
 `cd Pwnbox`
+
 `./install.sh`
 
 Open a new terminal and then your custom terminal should be there!

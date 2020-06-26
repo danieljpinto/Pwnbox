@@ -30,6 +30,8 @@ You can do this all in Parrot OS!
 
 `cd Pwnbox`
 
+`chmod +x install.sh`
+
 `./install.sh`
 
 Open a new terminal and then your custom terminal should be there!

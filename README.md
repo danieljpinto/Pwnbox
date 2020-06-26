@@ -70,11 +70,7 @@ Hope this tutorial was easy for you!
 ## Common Issues
 1.tun0: error fetching interface information: Device not found
 
-This means that you have not connected to hackthebox's VPN. To fix this issue you must connect to the hackthebox vpn or add a # at this line of your .bashrc:
-
-IP=$(ifconfig tun0 | grep "inet " | cut -d " " -f 10)
-
-NOTE: Doing the second one will result in you not being able to see your HTB ip in the terminal.
+This means that you have not connected to hackthebox's VPN. 
 
 ## More issues?
 

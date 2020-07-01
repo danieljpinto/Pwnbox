@@ -66,6 +66,12 @@ Double click htb.jpg which is inside the github repo we installed. Click the ima
 Hope this tutorial was easy for you!
 
 ---
+#Pwnbox Dock
+
+Do you also want the Pwnbox dock at the bottom? If so. Do this and make a Startup Application for it:
+
+```sudo apt install plank -y```
+
 
 ## Common Issues
 1.tun0: error fetching interface information: Device not found
